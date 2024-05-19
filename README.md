@@ -65,7 +65,3 @@ Feel free to submit pull requests for improvements or bug fixes.
 Brijraj Kacha, 
 GitHub: [https://github.com/BR-Kacha]
 Linkedin: [https://www.linkedin.com/in/brijraj-kacha/]
-
-**Additional Notes:**
-
-(Mention any specific requirements, limitations, or future enhancements)
