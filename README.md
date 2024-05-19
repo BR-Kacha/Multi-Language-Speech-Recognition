@@ -1,5 +1,4 @@
-# Multi-Language-Speech-Recognition
-# Automatic Speech Recognition with Translation (SSIP Hackathon Project)
+# Multi-Language-Speech-Recognition || Automatic Speech Recognition with Translation (SSIP Hackathon Project)
 
 This project, which earned an appreciation prize at an SSIP hackathon, implements automatic speech recognition (ASR) with translation capabilities in Python. Users can convert spoken words into text and translations (English, Hindi, Gujarati) for both live speech and pre-recorded audio files.
 
