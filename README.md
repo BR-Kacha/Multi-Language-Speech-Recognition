@@ -41,7 +41,8 @@ This project, which earned an appreciation prize at an SSIP hackathon, implement
 
 * `live_speech.py`: Script for live speech recognition and translation
 * `recorded_audio.py`: Script for pre-recorded audio recognition and translation (replace with your actual file names)
-* `exe` folder : Contains compiled executable files for the scripts 
+* `exe` files : Contains compiled executable files for the scripts
+* `audio files` : Testing audio files
 
 **Installation:**
 
